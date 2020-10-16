@@ -1,6 +1,6 @@
 package com.Basentjava;
 
-final class Q{
+class Q{
 	
 	final void test1() {
 		int i=10;
